@@ -10,9 +10,10 @@ This site contains the documentation for the AutoPi Iot Platform and will be con
 
 ## What is AutoPi?
 
+THIS IS A CHANGE TO DOCUMENTATION WEBSITE!!
 AutoPi is a cloud platform, and a hardware device that works together, and the aim is to serve as a platform for various car projects, as the platform is open and allows for easy customization.
 It is built on a Raspberry Pi, and can use both Zero, 3 and 4. It's is using a lightly modified version of Raspbian.
- 
+
 <p align="center">
   <img src="../static/img/gen3device_narrow.png" alt="AutoPi GEN3" width="400"/>
 </p>
