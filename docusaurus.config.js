@@ -1,11 +1,11 @@
 module.exports = {
   title: 'AutoPi Documentation',
   tagline: 'Documentation and Guides for Cloud, Core and Devices',
-  url: 'https://autopi-io.github.io',
+  url: 'https://federlizer.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'autopi-io', // Usually your GitHub org/user name.
+  organizationName: 'federlizer', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -67,12 +67,12 @@ module.exports = {
             {
               label: 'GitHub - AutoPi Core',
               href: 'https://github.com/autopi-io',
-            },            
+            },
           ],
         },
         {
           title: 'Social',
-          items: [           
+          items: [
             {
               label: 'Reddit',
               href: 'https://www.reddit.com/r/autopi/',
@@ -104,7 +104,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),          
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
