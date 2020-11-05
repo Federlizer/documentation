@@ -2,7 +2,7 @@ module.exports = {
   title: 'AutoPi Documentation',
   tagline: 'Documentation and Guides for Cloud, Core and Devices',
   url: 'https://federlizer.github.io',
-  baseUrl: '/',
+  baseUrl: '/documentation/',
   onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'federlizer', // Usually your GitHub org/user name.
